@@ -1,5 +1,10 @@
 {
   "dependencies": {
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/express": "^5.0.5",
+    "typescript": "^5.9.3"
   }
 }
